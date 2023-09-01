@@ -2,7 +2,6 @@
 import Footer from "@/app/components/Footer";
 import Navbar from "@/app/components/Navbar";
 import Makeup from "@/app/components/PageMakeup";
-// src/app/blog/[slug]/page.tsx
 import { blogs } from "@/app/data";
 
 const Blog = ({ params }: { params: { id: string } }) => {
