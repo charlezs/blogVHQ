@@ -1,8 +1,3 @@
-import {
-  LifebuoyIcon,
-  NewspaperIcon,
-  PhoneIcon,
-} from "@heroicons/react/20/solid";
 import { blogs } from "@/app/data";
 
 export default function Main() {
