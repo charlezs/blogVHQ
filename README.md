@@ -1,10 +1,9 @@
-# BlogVHQ 📍
+# BlogVHQ 🔮
 
 ## What is it?
 
 BlogVHQ is a handcrafted site where users can see amazing blogs written by the MVHQ team!
-
-<img width="1440" alt="splash page" src="https://cdn.discordapp.com/attachments/985520885538643968/1147067214411862016/Screenshot_2023-09-01_at_3.15.23_AM.png">
+<img width="1440" alt="splash page" src="https://github.com/charlezs/blogVHQ/assets/90402466/ea726332-c167-456a-adb2-61671ceee403">
 
 ## Usage 👨🏿‍💻
 
