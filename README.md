@@ -5,6 +5,9 @@
 BlogVHQ is a handcrafted site where users can see amazing blogs written by the MVHQ team!
 <img width="1440" alt="splash page" src="https://github.com/charlezs/blogVHQ/assets/90402466/ea726332-c167-456a-adb2-61671ceee403">
 
+## Checkit Out 👨🏿‍💻
+You'll find the site LIVE here: [BlogVHQ](https://blog-vhq.vercel.app/)
+
 ## Usage 👨🏿‍💻
 
 if you want to run this yourself...
