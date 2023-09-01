@@ -32,7 +32,7 @@ export default function Example() {
               Blog Post Information
             </h2>
             <p className="mt-1 text-sm leading-6 text-gray-600">
-              This information will be displayed publicly so make sure it's
+              This information will be displayed publicly so make sure it is
               perfect!
             </p>
           </div>
